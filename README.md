@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhambharti" alt="shubhambharti" /></a> </p>
 
-- 🌱 I’m currently learning **Android Development In Kotlin**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://shubhambhartiportfolio.netlify.app/](https://shubhambhartiportfolio.netlify.app/)
 
